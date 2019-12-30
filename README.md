@@ -2,6 +2,10 @@
 
 ## Extensions
 
+### Linter
+
+- [Rubocop](https://marketplace.visualstudio.com/items?itemName=misogi.ruby-rubocop)
+
 ### Looks
 
 - [File Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
