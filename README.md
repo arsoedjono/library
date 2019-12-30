@@ -2,6 +2,10 @@
 
 ## Extensions
 
+### Looks
+
+- [File Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
 ### Programming Language
 
 - [Cucumber](https://marketplace.visualstudio.com/items?itemName=alexkrechik.cucumberautocomplete)
