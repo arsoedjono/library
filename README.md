@@ -2,6 +2,9 @@
 
 ## Extensions
 
+### Programming Language
+
+- [Cucumber](https://marketplace.visualstudio.com/items?itemName=alexkrechik.cucumberautocomplete)
 - [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby)
 
 ## Fonts
