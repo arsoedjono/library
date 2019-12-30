@@ -1,5 +1,9 @@
 # Visual Studio Code Extensions
 
+## Extensions
+
+- [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby)
+
 ## Fonts
 
 ### Fira Code
