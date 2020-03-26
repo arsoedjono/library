@@ -12,6 +12,7 @@
 
 ### Programming Language
 
+- [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 - [Cucumber](https://marketplace.visualstudio.com/items?itemName=alexkrechik.cucumberautocomplete)
 - [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby)
 
