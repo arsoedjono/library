@@ -4,7 +4,7 @@
 
 ### Linter
 
-- [Rubocop](https://marketplace.visualstudio.com/items?itemName=misogi.ruby-rubocop)
+- [Rubocop](https://marketplace.visualstudio.com/items?itemName=misogi.ruby-rubocop) (does not support RVM)
 
 ### Looks
 
