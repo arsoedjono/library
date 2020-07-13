@@ -2,6 +2,10 @@
 
 ## Extensions
 
+### Git
+
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
 ### Linter
 
 - [Rubocop](https://marketplace.visualstudio.com/items?itemName=misogi.ruby-rubocop) (does not support RVM)
@@ -14,7 +18,7 @@
 
 - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 - [Cucumber](https://marketplace.visualstudio.com/items?itemName=alexkrechik.cucumberautocomplete)
-- [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby)
+- [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby) (problem on using Rubocop as linter)
 
 ## Fonts
 
