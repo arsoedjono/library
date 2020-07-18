@@ -18,6 +18,14 @@
 
 - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 - [Cucumber](https://marketplace.visualstudio.com/items?itemName=alexkrechik.cucumberautocomplete)
+```json
+{
+  "cucumberautocomplete.steps": [
+    "features/step_definitions/**/*.rb"
+  ],
+  "cucumberautocomplete.strictGherkinCompletion": true
+}
+```
 - [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby) (problem on using Rubocop as linter)
 
 ## Fonts
