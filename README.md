@@ -17,6 +17,7 @@
 
 ### Programming Language
 
+- [API Blueprint](https://marketplace.visualstudio.com/items?itemName=vncz.vscode-apielements)
 - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 - [Cucumber](https://marketplace.visualstudio.com/items?itemName=alexkrechik.cucumberautocomplete)
 ```json
