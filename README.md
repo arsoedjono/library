@@ -15,6 +15,10 @@
 - [File Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [Markdown Table Prettifier](https://marketplace.visualstudio.com/items?itemName=darkriszty.markdown-table-prettify) (can also be used for Cucumber tables)
 
+### Miscellaneous
+
+- [lowercase](https://marketplace.visualstudio.com/items?itemName=ruiquelhas.vscode-lowercase)
+
 ### Programming Language
 
 - [API Blueprint](https://marketplace.visualstudio.com/items?itemName=vncz.vscode-apielements)
