@@ -12,7 +12,7 @@
 
 ### Looks
 
-- [File Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [Markdown Table Prettifier](https://marketplace.visualstudio.com/items?itemName=darkriszty.markdown-table-prettify) (can also be used for Cucumber tables)
 
 ### Miscellaneous
