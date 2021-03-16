@@ -18,6 +18,9 @@
 ### Miscellaneous
 
 - [lowercase](https://marketplace.visualstudio.com/items?itemName=ruiquelhas.vscode-lowercase)
+- CSV
+  - [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+  - [Edit csv](https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv)
 
 ### Programming Language
 
