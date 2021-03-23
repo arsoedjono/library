@@ -35,6 +35,7 @@
   "cucumberautocomplete.strictGherkinCompletion": true
 }
 ```
+- [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
 - [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go)
 - [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby) (problem on using Rubocop as linter)
 
