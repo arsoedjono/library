@@ -39,7 +39,7 @@
     "git.enableSmartCommit": true,
 
     // window
-    "window.zoomLevel": 0,
+    "window.zoomLevel": 0, // adjust with screen size
 
     // workbench
     "workbench.iconTheme": "material-icon-theme", // need plugin: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
