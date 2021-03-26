@@ -23,7 +23,7 @@
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
     "editor.formatOnPaste": true,
-    "editor.multiCursorModifier": "ctrlCmd", // for Mac
+    "editor.multiCursorModifier": "ctrlCmd",
     "editor.tabSize": 2,
 
     // explorer
