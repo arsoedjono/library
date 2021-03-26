@@ -1,4 +1,5 @@
 {
+    // language specific
     "[dart]": {
         "editor.formatOnSave": true,
         "editor.formatOnType": true,
@@ -11,6 +12,35 @@
         "editor.tabCompletion": "onlySnippets",
         "editor.wordBasedSuggestions": false
     },
+
+    // atomKeymap
+    "atomKeymap.promptV3Features": true,
+
+    // diffEditor
+    "diffEditor.ignoreTrimWhitespace": false,
+
+    // editor
     "editor.fontFamily": "Fira Code",
-    "editor.fontLigatures": true
+    "editor.fontLigatures": true,
+    "editor.formatOnPaste": true,
+    "editor.multiCursorModifier": "ctrlCmd", // for Mac
+    "editor.tabSize": 2,
+
+    // explorer
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+
+    // files
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+
+    // git
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+
+    // window
+    "window.zoomLevel": 0,
+
+    // workbench
+    "workbench.iconTheme": "material-icon-theme", // need plugin: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
 }
