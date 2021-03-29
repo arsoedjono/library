@@ -16,6 +16,12 @@
     // atomKeymap
     "atomKeymap.promptV3Features": true,
 
+    // cucumberautocomplete
+    "cucumberautocomplete.steps": [
+        "features/step_definitions/**/*.rb"
+    ],
+    "cucumberautocomplete.strictGherkinCompletion": true,
+
     // diffEditor
     "diffEditor.ignoreTrimWhitespace": false,
 
