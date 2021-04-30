@@ -6,10 +6,6 @@
 
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
-### Linter
-
-- [Rubocop](https://marketplace.visualstudio.com/items?itemName=misogi.ruby-rubocop) (does not support RVM)
-
 ### Looks
 
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
