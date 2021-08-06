@@ -14,6 +14,7 @@
 ### Miscellaneous
 
 - [Atom Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings)
+- [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 - [lowercase](https://marketplace.visualstudio.com/items?itemName=ruiquelhas.vscode-lowercase)
 - CSV
   - [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
