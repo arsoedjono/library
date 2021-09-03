@@ -36,8 +36,10 @@
 ```
 - [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
 - [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go)
+- [HAML](https://marketplace.visualstudio.com/items?itemName=vayan.haml)
 - [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby) (problem on using Rubocop as linter)
   - [Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=wingrunr21.vscode-ruby)
+- [Terraform](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform)
 
 ## Fonts
 
