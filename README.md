@@ -1,9 +1,13 @@
 # Useful Tools
 
-- [Chrome Extensions](chrome-extensions/README.md)
+## OS
+- [Cross-Platform Apps](cross-platform/README.md)
 - [Mac Apps](mac/README.md)
-- [VS Code Extensions](vs-code-extensions/README.md)
 - [Windows Apps](windows/README.md)
+
+## Extensions
+- [Chrome Extensions](chrome-extensions/README.md)
+- [VS Code Extensions](vs-code-extensions/README.md)
 
 # Reading Links
 
