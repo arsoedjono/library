@@ -9,6 +9,10 @@
 - [Chrome Extensions](chrome-extensions/README.md)
 - [VS Code Extensions](vs-code-extensions/README.md)
 
+# Cheat Sheet
+
+- [Markdown](cheat-sheet/markdown.md)
+
 # Reading Links
 
 ## Testing
