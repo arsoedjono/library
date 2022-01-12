@@ -5,7 +5,6 @@
 - [HWMONITOR](https://www.cpuid.com/softwares/hwmonitor.html) - hardware monitoring
 
 ## Productivity
-- [Mailbird](https://www.getmailbird.com/) - email GUI and other tools (e.g. slack)
 - [PowerToys](https://github.com/microsoft/PowerToys) - various windows utilities
 
 ## Programming
@@ -15,3 +14,6 @@
 ## Video Editor
 - [OBS Studio](https://obsproject.com/) - open source recording/streaming tool
 - [Shotcut](https://shotcut.org/) - open source video editor
+
+## Paid Apps
+- [Mailbird](https://www.getmailbird.com/) - email GUI and other tools (e.g. slack) - can't receive email when free, no slack notification
