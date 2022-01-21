@@ -17,3 +17,4 @@
 
 ## Testing
 - [No Time To Test And No Time To Automate](https://iryna-suprun.medium.com/no-time-to-test-and-no-time-to-automate-306e0b4cedc6)
+- [Automation gRPC Tests](https://medium.com/testvagrant/automating-grpc-api-tests-cfee49d10384)
