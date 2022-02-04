@@ -29,4 +29,5 @@
 
 ## Testing
 - [Automating gRPC Tests](https://medium.com/testvagrant/automating-grpc-api-tests-cfee49d10384)
+- [How They Test In Software Companies](https://abhivaikar.github.io/howtheytest/#/)
 - [No Time To Test And No Time To Automate](https://iryna-suprun.medium.com/no-time-to-test-and-no-time-to-automate-306e0b4cedc6)
