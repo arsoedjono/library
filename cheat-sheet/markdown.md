@@ -72,7 +72,7 @@ NB: remove the backslash for multiple line code - enclose with triple backticks
 ___
 ```
 
-### Link
+## Link
 
 ```markdown
 [Google](https://www.google.com/)
@@ -87,13 +87,13 @@ ___
 <my@email.com>
 ```
 
-### Image
+## Image
 
 ```markdown
 ![San Juan Mountains](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 ```
 
-### Table
+## Table
 
 ```markdown
 | Header | Header |
@@ -106,7 +106,7 @@ Alignment
 | Content Left | Content Middle | Content Right |
 ```
 
-### Footnote
+## Footnote
 
 ```markdown
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
@@ -117,3 +117,7 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
     Indent paragraphs to include them in the footnote.
 ```
+
+## Diagram
+
+Use `mermaid` language for multi-line code: https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/
