@@ -2,41 +2,85 @@
 
 ## OS
 - [Cross-Platform Apps](cross-platform/README.md)
-- [Mac Apps](mac/README.md)
-- [Windows Apps](windows/README.md)
+- <img title="Apple" width="20px" src="https://simpleicons.org/icons/apple.svg" /> [Mac Apps](mac/README.md)
+- <img title="Windows" width="20px" src="https://simpleicons.org/icons/windows.svg" /> [Windows Apps](windows/README.md)
 
 ## Extensions
-- [Chrome Extensions](chrome-extensions/README.md)
-- [VS Code Extensions](vs-code-extensions/README.md)
+- <img title="Google Chrome" width="20px" src="https://simpleicons.org/icons/googlechrome.svg" /> [Chrome Extensions](chrome-extensions/README.md)
+- <img title="VS Code" width="20px" src="https://simpleicons.org/icons/visualstudiocode.svg" /> [VS Code Extensions](vs-code-extensions/README.md)
+
+## CI/CD
+- <img title="Github Actions" width="20px" src="https://simpleicons.org/icons/githubactions.svg" /> [Github Actions](https://github.com/features/actions)
+- <img title="Gitlab" width="20px" src="https://simpleicons.org/icons/gitlab.svg" /> [Gitlab Pipeline](https://docs.gitlab.com/ee/ci/pipelines/)
+- <img title="Jenkins" width="20px" src="https://simpleicons.org/icons/jenkins.svg" /> [Jenkins](https://www.jenkins.io/)
 
 ## Testing
 
-### Automation
-- [Cypress](https://www.cypress.io/) - end-to-end testing - JavaScript
-- [Playwright](https://playwright.dev/) - end-to-end testing - NodeJS, Python, Java, .NET
+✅ for personal recommendation
+
+### API
+| Name / Link | Supported Language | Notes |
+| --- | :---: | --- |
+| [Insomnia](https://insomnia.rest/) <img title="Insomnia" width="20px" src="https://simpleicons.org/icons/insomnia.svg" /> | | |
+| [Postman](https://www.postman.com/) <img title="Postman" width="20px" src="https://simpleicons.org/icons/postman.svg" /> | <img title="JavaScript" width="20px" src="https://simpleicons.org/icons/javascript.svg" /> | |
+
+### Automation Framework
+| Name / Link | Supported Language | Notes |
+| --- | :---: | --- |
+| [Cypress](https://www.cypress.io/) <img title="Cypress" width="20px" src="https://simpleicons.org/icons/cypress.svg" /> | <img title="JavaScript" width="20px" src="https://simpleicons.org/icons/javascript.svg" /> | end-to-end testing framework |
+| [Karate](https://github.com/karatelabs/karate) | <img title="Java" width="20px" src="https://simpleicons.org/icons/java.svg" /> | all-in-one automation framework |
+| [Katalon](https://www.katalon.com/) | | automation testing platform |
+| [Playwright](https://playwright.dev/) | <img title=".NET" width="20px" src="https://simpleicons.org/icons/dotnet.svg" /> <img title="NodeJS" width="20px" src="https://simpleicons.org/icons/nodedotjs.svg" /> <img title="Python" width="20px" src="https://simpleicons.org/icons/python.svg" /> <img title="Java" width="20px" src="https://simpleicons.org/icons/java.svg" /> | end-to-end testing framework |
+| [Robot Framework](https://robotframework.org/) <img title="Robot Framework" width="20px" src="https://simpleicons.org/icons/robotframework.svg" /> | <img title="Python" width="20px" src="https://simpleicons.org/icons/python.svg" /> | automation testing framework |
+| [Selenium IDE](https://www.selenium.dev/selenium-ide/) <img title="Selenium" width="20px" src="https://simpleicons.org/icons/selenium.svg" /> | | web automation record and playback tool |
+| [Serenity](https://serenity-bdd.info/) | <img title="Groovy" width="20px" src="https://simpleicons.org/icons/apachegroovy.svg" /> <img title="Java" width="20px" src="https://simpleicons.org/icons/java.svg" /> <img title="JavaScript" width="20px" src="https://simpleicons.org/icons/javascript.svg" /> | all-in-one automation framework |
+| [STF](https://github.com/DeviceFarmer/stf) | | device farm tool |
 
 ### Performance
-- [Artillery](https://www.artillery.io/) - JavaScript
-- [Gatling](https://gatling.io/) - Java, Kotlin, Scala
-- [JMeter](https://jmeter.apache.org/) - Java GUI-based
-  - [Typhoon](https://github.com/bukalapak/typhoon) - Ruby On Rails UI runner
-- [K6](https://k6.io/) - JavaScript
-- [Locust](https://locust.io/) - Python
-- [Vegeta](https://github.com/tsenart/vegeta) - Go
+| Name / Link | Supported Language | Notes |
+| --- | :---: | --- |
+| [Artillery](https://www.artillery.io/) | <img title="JavaScript" width="20px" src="https://simpleicons.org/icons/javascript.svg" /> | |
+| [Gatling](https://gatling.io/) <img title="Gatling" width="20px" src="https://simpleicons.org/icons/gatling.svg" /> | <img title="Java" width="20px" src="https://simpleicons.org/icons/java.svg" /> <img title="Kotlin" width="20px" src="https://simpleicons.org/icons/kotlin.svg" /> <img title="Scala" width="20px" src="https://simpleicons.org/icons/scala.svg" /> | |
+| [JMeter](https://jmeter.apache.org/) <img title="Apache JMeter" width="20px" src="https://simpleicons.org/icons/apachejmeter.svg" /> | <img title="Java" width="20px" src="https://simpleicons.org/icons/java.svg" /> | GUI + command line<br>UI runner: [Typhoon](https://github.com/bukalapak/typhoon) |
+| ✅ [K6](https://k6.io/) | <img title="JavaScript" width="20px" src="https://simpleicons.org/icons/javascript.svg" /> | |
+| [Locust](https://locust.io/) | <img title="Python" width="20px" src="https://simpleicons.org/icons/python.svg" /> | |
+| [Vegeta](https://github.com/tsenart/vegeta) | <img title="Golang" width="20px" src="https://simpleicons.org/icons/go.svg" /> | |
+
+### Test Case Management
+| Name / Link | Notes |
+| --- | --- |
+| [CucumberStudio](https://cucumber.io/tools/cucumberstudio/) <img title="Cucumber" width="20px" src="https://simpleicons.org/icons/cucumber.svg" /> | paid-features |
+| [Qase](https://qase.io/) | free-mium |
+| [Testrail](https://www.gurock.com/testrail/) | paid-features |
+| [Xray](https://www.getxray.app/) | JIRA plugin, paid-features |
+
+### Tools
+| Name / Link | Supported Language | Notes |
+| --- | :---: | --- |
+| [Allure](https://docs.qameta.io/allure/) | <img title="Groovy" width="20px" src="https://simpleicons.org/icons/apachegroovy.svg" /> <img title="Java" width="20px" src="https://simpleicons.org/icons/java.svg" /> <img title="JavaScript" width="20px" src="https://simpleicons.org/icons/javascript.svg" /> <img title=".NET" width="20px" src="https://simpleicons.org/icons/dotnet.svg" /> <img title="PHP" width="20px" src="https://simpleicons.org/icons/php.svg" /> <img title="Python" width="20px" src="https://simpleicons.org/icons/python.svg" /> <img title="Ruby" width="20px" src="https://simpleicons.org/icons/ruby.svg" /> <img title="Scala" width="20px" src="https://simpleicons.org/icons/scala.svg" /> | automation reporting tool |
+| [Appium](https://appium.io/) | <img title="C#" width="20px" src="https://simpleicons.org/icons/csharp.svg" /> <img title="Java" width="20px" src="https://simpleicons.org/icons/java.svg" /> <img title="JavaScript" width="20px" src="https://simpleicons.org/icons/javascript.svg" /> <img title="PHP" width="20px" src="https://simpleicons.org/icons/php.svg" /> <img title="Python" width="20px" src="https://simpleicons.org/icons/python.svg" /> <img title="Ruby" width="20px" src="https://simpleicons.org/icons/ruby.svg" /> | web and mobile automation driver |
+| [Browserstack](https://www.browserstack.com/) | A lot | cloud web and mobile testing platform, device farm, paid-features |
+| [Cucumber](https://cucumber.io/) <img title="Cucumber" width="20px" src="https://simpleicons.org/icons/cucumber.svg" /> | A lot | BDD tool |
+| [Espresso](https://developer.android.com/training/testing/espresso) | <img title="Java" width="20px" src="https://simpleicons.org/icons/java.svg" /> <img title="Kotlin" width="20px" src="https://simpleicons.org/icons/kotlin.svg" /> | Android instrumentation-based testing framework (UI) |
+| [Selenium](https://www.selenium.dev/) <img title="Selenium" width="20px" src="https://simpleicons.org/icons/selenium.svg" /> | <img title="C#" width="20px" src="https://simpleicons.org/icons/csharp.svg" /> <img title="Java" width="20px" src="https://simpleicons.org/icons/java.svg" /> <img title="JavaScript" width="20px" src="https://simpleicons.org/icons/javascript.svg" /> <img title="Python" width="20px" src="https://simpleicons.org/icons/python.svg" /> <img title="Ruby" width="20px" src="https://simpleicons.org/icons/ruby.svg" /> | web browser automation driver |
+| [UIAutomator](https://developer.android.com/training/testing/other-components/ui-automator) | <img title="Java" width="20px" src="https://simpleicons.org/icons/java.svg" /> <img title="Kotlin" width="20px" src="https://simpleicons.org/icons/kotlin.svg" /> | Android instrumentation-based testing framework (UI) |
 
 ### Visual
-- [applitools](https://applitools.com/visual-testing/) - automation platform
-- [aShot](https://github.com/pazone/ashot) - Java
-- [image-comparison](https://romankh3.github.io/image-comparison/) - Java
-- [pixelmatch](https://github.com/mapbox/pixelmatch) - JavaScript
-- [storybook](https://storybook.js.org/docs/react/writing-tests/visual-testing) - JavaScript, React
+| Name / Link | Supported Language | Notes |
+| --- | :---: | --- |
+| [applitools](https://applitools.com/visual-testing/) | | automation platform |
+| [aShot](https://github.com/pazone/ashot) | <img title="Java" width="20px" src="https://simpleicons.org/icons/java.svg" /> | |
+| [image-comparison](https://romankh3.github.io/image-comparison/) | <img title="Java" width="20px" src="https://simpleicons.org/icons/java.svg" /> | |
+| [percy](https://percy.io/) <img title="Percy" width="20px" src="https://simpleicons.org/icons/percy.svg" /> | A lot | free-mium, platform, integrated with browserstack, SDK |
+| ✅ [pixelmatch](https://github.com/mapbox/pixelmatch) | <img title="JavaScript" width="20px" src="https://simpleicons.org/icons/javascript.svg" /> | |
+| [storybook](https://storybook.js.org/docs/react/writing-tests/visual-testing) | <img title="JavaScript" width="20px" src="https://simpleicons.org/icons/javascript.svg" /> <img title="ReactJS" width="20px" src="https://simpleicons.org/icons/react.svg" /> | |
 
 ## Diagrams
-- [Diagram in Markdown with Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
-- [Google Cloud architecture diagramming tool](https://cloud.google.com/blog/topics/developers-practitioners/introducing-google-cloud-architecture-diagramming-tool)
+- <img title="Markdown" width="20px" src="https://simpleicons.org/icons/markdown.svg" /> [Diagram in Markdown with Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
+- <img title="Google Cloud" width="20px" src="https://simpleicons.org/icons/googlecloud.svg" /> [Google Cloud architecture diagramming tool](https://cloud.google.com/blog/topics/developers-practitioners/introducing-google-cloud-architecture-diagramming-tool)
 
 # Cheat Sheet
-- [Markdown](cheat-sheet/markdown.md)
+- <img title="Markdown" width="20px" src="https://simpleicons.org/icons/markdown.svg" /> [Markdown](cheat-sheet/markdown.md)
 
 # Reading Links
 
