@@ -27,6 +27,10 @@
 
 # Reading Links
 
+## Diagram
+- [Diagram in Markdown with Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
+- [Google Cloud architecture diagramming tool](https://cloud.google.com/blog/topics/developers-practitioners/introducing-google-cloud-architecture-diagramming-tool)
+
 ## Testing
 - [Automating gRPC Tests](https://medium.com/testvagrant/automating-grpc-api-tests-cfee49d10384)
 - [Contract Testing](https://www.linkedin.com/pulse/api-contract-testing-visual-guide-peter-thomas)
