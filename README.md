@@ -9,11 +9,13 @@
 - [Chrome Extensions](chrome-extensions/README.md)
 - [VS Code Extensions](vs-code-extensions/README.md)
 
-## Automation
+## Testing
+
+### Automation
 - [Cypress](https://www.cypress.io/) - end-to-end testing - JavaScript
 - [Playwright](https://playwright.dev/) - end-to-end testing - NodeJS, Python, Java, .NET
 
-## Performance Testing
+### Performance
 - [Artillery](https://www.artillery.io/) - JavaScript
 - [Gatling](https://gatling.io/) - Java, Kotlin, Scala
 - [JMeter](https://jmeter.apache.org/) - Java GUI-based
@@ -21,6 +23,13 @@
 - [K6](https://k6.io/) - JavaScript
 - [Locust](https://locust.io/) - Python
 - [Vegeta](https://github.com/tsenart/vegeta) - Go
+
+### Visual
+- [applitools](https://applitools.com/visual-testing/) - automation platform
+- [aShot](https://github.com/pazone/ashot) - Java
+- [image-comparison](https://romankh3.github.io/image-comparison/) - Java
+- [pixelmatch](https://github.com/mapbox/pixelmatch) - JavaScript
+- [storybook](https://storybook.js.org/docs/react/writing-tests/visual-testing) - JavaScript, React
 
 ## Diagrams
 - [Diagram in Markdown with Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
