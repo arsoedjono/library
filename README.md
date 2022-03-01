@@ -82,7 +82,13 @@
 # Cheat Sheet
 - <img title="Markdown" width="20px" src="https://simpleicons.org/icons/markdown.svg" /> [Markdown](cheat-sheet/markdown.md)
 
-# Reading Links
+# Useful Links
+
+## Development
+- [How to Write Better Git Commit Message](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/how-to-write-better-git-commit-messages/amp/)
+
+## Interesting Sites
+- [Modern language dictionary](https://www.selfdefined.app/)
 
 ## Testing
 - [Automating gRPC Tests](https://medium.com/testvagrant/automating-grpc-api-tests-cfee49d10384)
