@@ -34,7 +34,6 @@
 | [Robot Framework](https://robotframework.org/) <img title="Robot Framework" width="20px" src="https://simpleicons.org/icons/robotframework.svg" /> | <img title="Python" width="20px" src="https://simpleicons.org/icons/python.svg" /> | automation testing framework |
 | [Selenium IDE](https://www.selenium.dev/selenium-ide/) <img title="Selenium" width="20px" src="https://simpleicons.org/icons/selenium.svg" /> | | web automation record and playback tool |
 | [Serenity](https://serenity-bdd.info/) | <img title="Groovy" width="20px" src="https://simpleicons.org/icons/apachegroovy.svg" /> <img title="Java" width="20px" src="https://simpleicons.org/icons/java.svg" /> <img title="JavaScript" width="20px" src="https://simpleicons.org/icons/javascript.svg" /> | all-in-one automation framework |
-| [STF](https://github.com/DeviceFarmer/stf) | | device farm tool |
 
 ### Performance
 | Name / Link | Supported Language | Notes |
@@ -63,6 +62,7 @@
 | [Cucumber](https://cucumber.io/) <img title="Cucumber" width="20px" src="https://simpleicons.org/icons/cucumber.svg" /> | A lot | BDD tool |
 | [Espresso](https://developer.android.com/training/testing/espresso) | <img title="Java" width="20px" src="https://simpleicons.org/icons/java.svg" /> <img title="Kotlin" width="20px" src="https://simpleicons.org/icons/kotlin.svg" /> | Android instrumentation-based testing framework (UI) |
 | [Selenium](https://www.selenium.dev/) <img title="Selenium" width="20px" src="https://simpleicons.org/icons/selenium.svg" /> | <img title="C#" width="20px" src="https://simpleicons.org/icons/csharp.svg" /> <img title="Java" width="20px" src="https://simpleicons.org/icons/java.svg" /> <img title="JavaScript" width="20px" src="https://simpleicons.org/icons/javascript.svg" /> <img title="Python" width="20px" src="https://simpleicons.org/icons/python.svg" /> <img title="Ruby" width="20px" src="https://simpleicons.org/icons/ruby.svg" /> | web browser automation driver |
+| [STF](https://github.com/DeviceFarmer/stf) | | device farm tool |
 | [UIAutomator](https://developer.android.com/training/testing/other-components/ui-automator) | <img title="Java" width="20px" src="https://simpleicons.org/icons/java.svg" /> <img title="Kotlin" width="20px" src="https://simpleicons.org/icons/kotlin.svg" /> | Android instrumentation-based testing framework (UI) |
 
 ### Visual
