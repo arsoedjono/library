@@ -1,21 +1,27 @@
 # Useful Tools
 
-## OS
+## Apps
 - [Cross-Platform Apps](cross-platform/README.md)
 - <img title="Apple" width="20px" src="https://simpleicons.org/icons/apple.svg" /> [Mac Apps](mac/README.md)
 - <img title="Windows" width="20px" src="https://simpleicons.org/icons/windows.svg" /> [Windows Apps](windows/README.md)
-
-## Extensions
-- <img title="Google Chrome" width="20px" src="https://simpleicons.org/icons/googlechrome.svg" /> [Chrome Extensions](chrome-extensions/README.md)
-- <img title="VS Code" width="20px" src="https://simpleicons.org/icons/visualstudiocode.svg" /> [VS Code Extensions](vs-code-extensions/README.md)
 
 ## CI/CD
 - <img title="Github Actions" width="20px" src="https://simpleicons.org/icons/githubactions.svg" /> [Github Actions](https://github.com/features/actions)
 - <img title="Gitlab" width="20px" src="https://simpleicons.org/icons/gitlab.svg" /> [Gitlab Pipeline](https://docs.gitlab.com/ee/ci/pipelines/)
 - <img title="Jenkins" width="20px" src="https://simpleicons.org/icons/jenkins.svg" /> [Jenkins](https://www.jenkins.io/)
 
-## Testing
+## Diagrams
+- <img title="Markdown" width="20px" src="https://simpleicons.org/icons/markdown.svg" /> [Diagram in Markdown with Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
+- <img title="Google Cloud" width="20px" src="https://simpleicons.org/icons/googlecloud.svg" /> [Google Cloud architecture diagramming tool](https://cloud.google.com/blog/topics/developers-practitioners/introducing-google-cloud-architecture-diagramming-tool)
 
+## Extensions
+- <img title="Google Chrome" width="20px" src="https://simpleicons.org/icons/googlechrome.svg" /> [Chrome Extensions](chrome-extensions/README.md)
+- <img title="VS Code" width="20px" src="https://simpleicons.org/icons/visualstudiocode.svg" /> [VS Code Extensions](vs-code-extensions/README.md)
+
+## Productivity
+- <img title="Google Meet" width="20px" src="https://simpleicons.org/icons/googlemeet.svg" /> [tl;dv](https://tldv.io/) - Google Meet Video Recording
+
+## Testing
 ✅ for personal recommendation
 
 ### API
@@ -51,7 +57,7 @@
 | [CucumberStudio](https://cucumber.io/tools/cucumberstudio/) <img title="Cucumber" width="20px" src="https://simpleicons.org/icons/cucumber.svg" /> | paid-features |
 | [Qase](https://qase.io/) | free-mium |
 | [Testrail](https://www.gurock.com/testrail/) | paid-features |
-| [Xray](https://www.getxray.app/) | JIRA plugin, paid-features |
+| [Xray](https://www.getxray.app/) <img title="JIRA" width="20px" src="https://simpleicons.org/icons/jira.svg" /> | JIRA plugin, paid-features |
 
 ### Tools
 | Name / Link | Supported Language | Notes |
@@ -75,12 +81,12 @@
 | ✅ [pixelmatch](https://github.com/mapbox/pixelmatch) | <img title="JavaScript" width="20px" src="https://simpleicons.org/icons/javascript.svg" /> | |
 | [storybook](https://storybook.js.org/docs/react/writing-tests/visual-testing) | <img title="JavaScript" width="20px" src="https://simpleicons.org/icons/javascript.svg" /> <img title="ReactJS" width="20px" src="https://simpleicons.org/icons/react.svg" /> | |
 
-## Diagrams
-- <img title="Markdown" width="20px" src="https://simpleicons.org/icons/markdown.svg" /> [Diagram in Markdown with Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
-- <img title="Google Cloud" width="20px" src="https://simpleicons.org/icons/googlecloud.svg" /> [Google Cloud architecture diagramming tool](https://cloud.google.com/blog/topics/developers-practitioners/introducing-google-cloud-architecture-diagramming-tool)
-
 # Cheat Sheet
 - <img title="Markdown" width="20px" src="https://simpleicons.org/icons/markdown.svg" /> [Markdown](cheat-sheet/markdown.md)
+- YAML/YML
+  - https://yaml-multiline.info/
+  - https://sidneyliebrand.medium.com/the-greatnesses-and-gotchas-of-yaml-5e3377ef0c55
+  - https://learnxinyminutes.com/docs/yaml/
 
 # Useful Links
 
