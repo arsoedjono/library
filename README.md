@@ -35,6 +35,7 @@
 
 # Fonts
 - [Fira Code][font-firacode] | [Setup](font/firacode.md)
+- [Plus Jakarta Sans][font-plus-jakarta-sans]
 
 # Useful Tools
 
@@ -50,6 +51,7 @@
 | | [Guidance][app-guidance] | <img title="Apple" width="20px" src="https://simpleicons.org/icons/apple.svg" /> | Productivity | Islamic prayer times and reminder |
 | 💸 ✅ | [iStat Menus][app-istat-menus] | <img title="Apple" width="20px" src="https://simpleicons.org/icons/apple.svg" /> | Productivity | System manager in taskbar |
 | ✅ | [iTerm2][app-iterm2] <img title="iTerm2" width="20px" src="https://simpleicons.org/icons/iterm2.svg" /> | <img title="Apple" width="20px" src="https://simpleicons.org/icons/apple.svg" /> | Software Development | Terminal with better UX and features |
+| | [warp][app-warp] | <img title="Apple" width="20px" src="https://simpleicons.org/icons/apple.svg" /> | Software Development | Terminal with better UX and features |
 | ✅ | [Magnet][app-magnet] | <img title="Apple" width="20px" src="https://simpleicons.org/icons/apple.svg" /> | Window Organizer | |
 | | [Amethyst][app-amethyst] | <img title="Apple" width="20px" src="https://simpleicons.org/icons/apple.svg" /> | Window Organizer | |
 | | [CPU-Z][app-cpu-z] | <img title="Windows" width="20px" src="https://simpleicons.org/icons/windows.svg" /> | Monitoring | Hardware information |
@@ -200,8 +202,14 @@
 # Useful Links
 
 ## Development
-- [How to Write Better Git Commit Message](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/how-to-write-better-git-commit-messages/amp/)
-- [M.E.R.N. Stack - JavaScript Fullstack Tool by JSMastery](https://www.linkedin.com/posts/bouthourimed_complete-roadmap-for-mern-stack-web-development-activity-6912367566455758848-8y3L)
+- DevOps
+  - [90 Days of DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+- Git <img title="Git" width="20px" src="https://simpleicons.org/icons/git.svg" />
+  - [action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - Github Action to ensure PR title matches Conventional Commits spec
+  - [How to Write Better Git Commit Message](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/how-to-write-better-git-commit-messages/amp/)
+- M.E.R.N Stack <img title="MongoDB" width="20px" src="https://simpleicons.org/icons/mongodb.svg" /> <img title="Express" width="20px" src="https://simpleicons.org/icons/express.svg" /> <img title="NodeJS" width="20px" src="https://simpleicons.org/icons/nodedotjs.svg" />
+  - [by GeekforGeeks](https://www.geeksforgeeks.org/mern-stack/amp/)
+  - [JavaScript Fullstack Tool by JSMastery](https://www.linkedin.com/posts/bouthourimed_complete-roadmap-for-mern-stack-web-development-activity-6912367566455758848-8y3L)
 
 ## Interesting Sites
 - [Modern language dictionary](https://www.selfdefined.app/)
@@ -226,6 +234,7 @@
 [app-powertoys]: https://github.com/microsoft/PowerToys "PowerToys"
 [app-shotcut]: https://shotcut.org/ "Shotcut"
 [app-vlc]: https://www.videolan.org/vlc/ "VLC"
+[app-warp]: https://www.warp.dev/ "Warp"
 [app-wsl]: https://docs.microsoft.com/en-us/windows/wsl/ "WSL"
 [chrome-floating-player]: https://chrome.google.com/webstore/detail/floating-player/ekajjllcmeckibblgckgoceinmmgnfop "Floating Player"
 [chrome-gofullpage]: https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl "GoFullPage"
@@ -243,6 +252,7 @@
 [diagram-markdown-mermaid]: https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/ "Diagram in Markdown with Mermaid"
 [diagram-plantuml]: https://plantuml.com/
 [font-firacode]: https://github.com/tonsky/FiraCode "FiraCode"
+[font-plus-jakarta-sans]: https://fonts.google.com/specimen/Plus+Jakarta+Sans "Plus Jakarta Sans"
 [softwaredevelopment-megalinter]: https://megalinter.github.io/latest/ "MegaLinter"
 [testing-api-insomnia]: https://insomnia.rest/ "Insomnia"
 [testing-api-postman]: https://www.postman.com/ "Postman"
