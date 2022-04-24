@@ -69,6 +69,7 @@
 - <img title="Google Cloud" width="20px" src="https://simpleicons.org/icons/googlecloud.svg" /> [Google Cloud architecture][diagram-gcloud]
 - <img title="Markdown" width="20px" src="https://simpleicons.org/icons/markdown.svg" /> [Markdown + Mermaid][diagram-markdown-mermaid]
 - [PlantUML][diagram-plantuml]
+- [WebSequenceDiagram][diagram-web-sequence-diagram]
 
 ## Extensions
 
@@ -202,10 +203,22 @@
 # Useful Links
 
 ## Development
+- Blogging
+  - [Multilingual Blog with Jekyll](https://forestry.io/blog/creating-a-multilingual-blog-with-jekyll/)
+- Code Review
+  - [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 - DevOps
   - [90 Days of DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+- Game Development
+  - [Code Your First Game](https://code-your-first-game.com/)
+  - [FamTrinli YouTube channel](https://www.youtube.com/user/FamTrinli/videos)
 - Git <img title="Git" width="20px" src="https://simpleicons.org/icons/git.svg" />
   - [action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - Github Action to ensure PR title matches Conventional Commits spec
+  - Android
+    - [Continuous Delivery with Github Action](https://www.raywenderlich.com/19407406-continuous-delivery-for-android-using-github-actions)
+    - [First approach: set up Android project](https://wkrzywiec.medium.com/github-actions-for-android-first-approach-f616c24aa0f9)
+  - [Github Action - Trigger by Label](https://github.community/t/do-something-if-a-particular-label-is-set/17149)
+  - [JIRA and Gitlab Integration](https://about.gitlab.com/blog/2021/05/24/gitlab-and-jira-integration-the-final-steps/)
   - [How to Write Better Git Commit Message](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/how-to-write-better-git-commit-messages/amp/)
 - M.E.R.N Stack <img title="MongoDB" width="20px" src="https://simpleicons.org/icons/mongodb.svg" /> <img title="Express" width="20px" src="https://simpleicons.org/icons/express.svg" /> <img title="React" width="20px" src="https://simpleicons.org/icons/react.svg" /> <img title="NodeJS" width="20px" src="https://simpleicons.org/icons/nodedotjs.svg" />
   - [by GeekforGeeks](https://www.geeksforgeeks.org/mern-stack/amp/)
@@ -217,6 +230,7 @@
 ## Testing
 - [Automating gRPC Tests](https://medium.com/testvagrant/automating-grpc-api-tests-cfee49d10384)
 - [Contract Testing](https://www.linkedin.com/pulse/api-contract-testing-visual-guide-peter-thomas)
+- [Google Testing Blog](https://testing.googleblog.com/)
 - [How They Test In Software Companies](https://abhivaikar.github.io/howtheytest/#/)
 - [Measure Test Automation Maturity](https://applitools.com/blog/measure-your-test-automation-maturity/)
 - [No Time To Test And No Time To Automate](https://iryna-suprun.medium.com/no-time-to-test-and-no-time-to-automate-306e0b4cedc6)
@@ -250,7 +264,8 @@
 [cicd-jenkins]: https://www.jenkins.io/ "Jenkins"
 [diagram-gcloud]: https://cloud.google.com/blog/topics/developers-practitioners/introducing-google-cloud-architecture-diagramming-tool "Google Cloud architecture diagramming tool"
 [diagram-markdown-mermaid]: https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/ "Diagram in Markdown with Mermaid"
-[diagram-plantuml]: https://plantuml.com/
+[diagram-plantuml]: https://plantuml.com/ "PlantUML"
+[diagram-web-sequence-diagram]: https://www.websequencediagrams.com/ "WebSequenceDiagram"
 [font-firacode]: https://github.com/tonsky/FiraCode "FiraCode"
 [font-plus-jakarta-sans]: https://fonts.google.com/specimen/Plus+Jakarta+Sans "Plus Jakarta Sans"
 [softwaredevelopment-megalinter]: https://megalinter.github.io/latest/ "MegaLinter"
