@@ -207,7 +207,7 @@
 - Git <img title="Git" width="20px" src="https://simpleicons.org/icons/git.svg" />
   - [action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - Github Action to ensure PR title matches Conventional Commits spec
   - [How to Write Better Git Commit Message](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/how-to-write-better-git-commit-messages/amp/)
-- M.E.R.N Stack <img title="MongoDB" width="20px" src="https://simpleicons.org/icons/mongodb.svg" /> <img title="Express" width="20px" src="https://simpleicons.org/icons/express.svg" /> <img title="NodeJS" width="20px" src="https://simpleicons.org/icons/nodedotjs.svg" />
+- M.E.R.N Stack <img title="MongoDB" width="20px" src="https://simpleicons.org/icons/mongodb.svg" /> <img title="Express" width="20px" src="https://simpleicons.org/icons/express.svg" /> <img title="React" width="20px" src="https://simpleicons.org/icons/react.svg" /> <img title="NodeJS" width="20px" src="https://simpleicons.org/icons/nodedotjs.svg" />
   - [by GeekforGeeks](https://www.geeksforgeeks.org/mern-stack/amp/)
   - [JavaScript Fullstack Tool by JSMastery](https://www.linkedin.com/posts/bouthourimed_complete-roadmap-for-mern-stack-web-development-activity-6912367566455758848-8y3L)
 
