@@ -107,6 +107,7 @@
 | [Go][vscode-go] | Software Development - Go <img title="Go" width="20px" src="https://simpleicons.org/icons/go.svg" /> | |
 | [Markdown All in One][vscode-markdown-all-in-one] | Software Development - Markdown <img title="Markdown" width="20px" src="https://simpleicons.org/icons/markdown.svg" /> | Keyboard shortcut, generate table of contents |
 | [Markdown Table Prettifier][vscode-markdown-table-prettifier] | Software Development - Markdown <img title="Markdown" width="20px" src="https://simpleicons.org/icons/markdown.svg" /> | |
+| [Robot Framework Intellisense][vscode-robot-framework] | Software Development - Robot Framework <img title="Robot Framework" width="20px" src="https://simpleicons.org/icons/robotframework.svg" /> | |
 | [Ruby][vscode-ruby] | Software Development - Ruby <img title="Ruby" width="20px" src="https://simpleicons.org/icons/ruby.svg" /> | Has problem on using Rubocop as linter |
 | [Ruby Haml][vscode-ruby-haml] | Software Development - Ruby <img title="Ruby" width="20px" src="https://simpleicons.org/icons/ruby.svg" /> | |
 | [VSCode Ruby][vscode-vscode-ruby] | Software Development - Ruby <img title="Ruby" width="20px" src="https://simpleicons.org/icons/ruby.svg" /> | |
@@ -324,6 +325,7 @@
 [vscode-material-icon-theme]: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme "Material Icon Theme"
 [vscode-rainbow-csv]: https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv "Rainbow CSV"
 [vscode-remote-development]: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack "Remote Development"
+[vscode-robot-framework]: https://marketplace.visualstudio.com/items?itemName=TomiTurtiainen.rf-intellisense
 [vscode-ruby-haml]: https://marketplace.visualstudio.com/items?itemName=vayan.haml "Ruby Haml"
 [vscode-ruby]: https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby "Ruby"
 [vscode-sort-lines]: https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines "Sort lines"
