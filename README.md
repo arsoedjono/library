@@ -96,8 +96,10 @@
 | [Docker][vscode-docker] | Misc | |
 | [lowercase][vscode-lowercase] | Misc | |
 | [Sort lines][vscode-sort-lines] | Misc | |
+| [TODO Highlight][vscode-todo-highlight] | Misc | |
 | [Remote Development][vscode-remote-development] | Software Development | |
 | [Thunder Client][vscode-thunder-client] | Software Development | Alternative for Postman |
+| [WSL][vscode-wsl] | Software Development | |
 | [API Elements extension][vscode-api-elements-extension] | Software Development - API Blueprint | |
 | [C/C++][vscode-c-c++] | Software Development - C/C++ <img title="C" width="20px" src="https://simpleicons.org/icons/c.svg" /> <img title="C++" width="20px" src="https://simpleicons.org/icons/cplusplus.svg" /> | |
 | [Edit csv][vscode-edit-csv] | Software Development - CSV | |
@@ -329,5 +331,7 @@
 [vscode-ruby-haml]: https://marketplace.visualstudio.com/items?itemName=vayan.haml "Ruby Haml"
 [vscode-ruby]: https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby "Ruby"
 [vscode-sort-lines]: https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines "Sort lines"
+[vscode-todo-highlight]: https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight "TODO Highlight"
 [vscode-thunder-client]: https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client "Thunder Client"
 [vscode-vscode-ruby]: https://marketplace.visualstudio.com/items?itemName=wingrunr21.vscode-ruby "VSCode Ruby"
+[vscode-wsl]: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl "WSL"
